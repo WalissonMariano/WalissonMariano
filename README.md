@@ -6,7 +6,6 @@
 )](https://www.instagram.com/dev.walissonmariano/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCHsSziaslsbggK-GjXX9HzQ)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalissonMariano&layout=donut-vertical)](https://github.com/WalissonMariano/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
 
