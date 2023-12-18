@@ -16,4 +16,4 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia.
