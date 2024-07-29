@@ -11,4 +11,4 @@
 
 
 
-Apaixonado por tecnologia.
+Atuo como Desenvolvedor de Software desde 2023, nessa jornada pude desenvolver minhas habilidades com a implementação de soluções inovadoras e eficientes. Atualmente cursando o 5º período de Ciência da Computação, com sólida base teórica e prática em desenvolvimento de software. 
