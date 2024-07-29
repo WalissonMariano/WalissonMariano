@@ -12,6 +12,6 @@ Atuo como Desenvolvedor de Software desde 2023, nessa jornada pude desenvolver m
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 
