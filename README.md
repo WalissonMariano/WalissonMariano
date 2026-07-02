@@ -16,7 +16,7 @@ Minha paixão é transformar ideias complexas em código limpo, seguro e de alta
 ---
 
 ### 📫 Vamos nos conectar?
-[💼 LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) | [📧 E-mail](SEU_EMAIL_AQUI)
+[💼 LinkedIn](https://www.linkedin.com/in/walisson-mariano-30baa923a) | [📧 E-mail](email)
 
 
 
